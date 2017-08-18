@@ -1,4 +1,4 @@
-What is prototyping in the browser?
+What do we mean by prototyping in the browser?
 
 ## HTML + CSS + JS <!-- .element: class="fragment" data-fragment-index="1" -->
 ## ⬇️ <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -39,7 +39,7 @@ Note: With just HTML and an optional templating language, you can make a version
 ---
 
 ## 🤔
-## How do you decide to prototype a project?
+## When to prototype a WP project?
 
 Note: Any new redesign of a WordPress theme where you need to architect a new design from scratch.
 
@@ -130,4 +130,4 @@ Show how the css files are enqueued in assets.php for the WordPress theme
 
 ---
 
-[http://bit.ly/wcpwm17-huron](http://bit.ly/wcpwm17-huron)
+[https://alleyinteractive.github.io/talk-prototyping-in-the-browser](https://alleyinteractive.github.io/talk-prototyping-in-the-browser/)
