@@ -16,41 +16,8 @@ Note: At Alley Interactive, we built an open-source tool called Huron that uses 
 
 ---
 
-# Why do prototyping in the browser?
-
-Note: There are two sides to how this prototyping system works. First!
-
----
-
-![Gif of styleguide](https://cl.ly/2s292S0z3J2q/download/Screen%20Recording%202017-05-27%20at%2011.51%20AM.gif)
-
-1️⃣  It creates a style guide of all your components
-
-Note: So you can see in an ordered way what each components looks like separate from the rest of your site.
-
----
-
-![Gif of prototype html updating](https://cl.ly/0z2A0v1v3v3z/download/Screen%20Recording%202017-05-27%20at%2012.03%20PM.gif)
-
-2️⃣ It allows you to arrange those same components together in a prototype.
-
-Note: With just HTML and an optional templating language, you can make a version of your theme that looks just like what your final site will look like.
-
----
-
-## 🤔
-## When to prototype a WP project?
-
-Note: Any new redesign of a WordPress theme where you need to architect a new design from scratch.
-
-It could also work on themes where you are building the design of a new component or area. You can commit to prototyping as much or as little of the theme as you like, depending on your project’s needs.
-
-This process is best suited to building a specific website. If you are building a general theme for sale, this probably isn’t worth it.
-
----
-
 ## < 🎨 > <!-- .element: class="code" -->
-## Why choose to prototype in the browser?
+## Why bother with prototyping?
 
 Note: Lets go over some reasons.
 
@@ -102,6 +69,17 @@ Note: All the front-end work you put into building in-browser prototypes will wo
 
 ---
 
+## 🤔
+## How do you decide to prototype?
+
+Note: Any new redesign of a WordPress theme where you need to architect a new design from scratch.
+
+It could also work on themes where you are building the design of a new component or area. You can commit to prototyping as much or as little of the theme as you like, depending on your project’s needs.
+
+This process is best suited to building a specific website. If you are building a general theme for sale, this probably isn’t worth it.
+
+---
+
 # 🤔
 ## When do you start prototyping?
 
@@ -110,6 +88,28 @@ Note: You can start prototyping in the browser after you’ve established the co
 Low-fidelity wireframes usually come first — wireframes that show the placement and location of modules on a page, but don’t get into “pixel perfection.”
 
 @todo this slide can be expanded to talk more about modular workflow.
+
+---
+
+# What does Huron give you?
+
+Note: There are two sides to how this prototyping system works. First!
+
+---
+
+![Gif of styleguide](https://cl.ly/2s292S0z3J2q/download/Screen%20Recording%202017-05-27%20at%2011.51%20AM.gif)
+
+1️⃣  It creates a style guide of all your components
+
+Note: So you can see in an ordered way what each components looks like separate from the rest of your site.
+
+---
+
+![Gif of prototype html updating](https://cl.ly/0z2A0v1v3v3z/download/Screen%20Recording%202017-05-27%20at%2012.03%20PM.gif)
+
+2️⃣ It allows you to arrange those same components together in a prototype.
+
+Note: With just HTML and an optional templating language, you can make a version of your theme that looks just like what your final site will look like.
 
 ---
 
